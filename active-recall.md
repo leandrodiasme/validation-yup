@@ -1,0 +1,1 @@
+No meu arquivo de rotas do objeto em questão eu crio os quatro métodos necessários para o CRUD e chamo as funções do controllers responsáveis por aquelas operações.
